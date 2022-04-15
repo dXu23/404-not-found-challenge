@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">404 Webpage</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://coldfix.dev/error-page.html">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{your-demo-link.your-domain}">
       Solution
     </a>
     <span> | </span>
@@ -38,10 +38,10 @@
 
 ![screenshot](404-site.jpg)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
 - What was your experience?
+
 I had a hard time finding the fonts used. Font Squirrel helped me find the font of the main text body.
 However, I had to give up on the font of the '404 NOT FOUND' header since the letters were scrunched up
 together. According to Font Squirrel, there is a way to separate letters scrunched up together, but I'm
@@ -49,9 +49,11 @@ too lazy to figure out how.
 
 
 - What have you learned/improved?
+
 I improved my knowledge of CSS grid and media queries.
 
 - Your wisdom? :)
+
 It might be a good idea to learn OpenCV/Gimp so that one can identify contours around the letters and separate them
 for FontSquirrel.
 
