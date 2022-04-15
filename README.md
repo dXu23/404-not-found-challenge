@@ -73,14 +73,13 @@ change its layout according to screen size.
 
 ## Acknowledgements
 
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
 - [Font Squirrel font matcherator](https://www.fontsquirrel.com/matcherator)
 - [CSS Grid info](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [W3 Schools on Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+- [Space Mono font](https://www.fontsquirrel.com/fonts/space-mono)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [coldfix.dev](https://coldfix.dev)
+- GitHub [@dXu23](https://github.com/dXu23)
+
