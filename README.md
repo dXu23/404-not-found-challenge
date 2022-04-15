@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://github.com/dXu23/404-not-found-challenge/blob/main/404.html">
       Solution
     </a>
     <span> | </span>
@@ -40,6 +40,9 @@
 
 
 - Where can I see your demo?
+
+Right [here](https://coldfix.dev/error-page.html)
+
 - What was your experience?
 
 I had a hard time finding the fonts used. Font Squirrel helped me find the font of the main text body.
