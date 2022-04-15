@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      @font-face {
+        font-family: 'Space Mono';
+        src: url(SpaceMono-Regular.ttf);
+      }
+
+      @font-face {
+        font-family: 'Space Mono';
+        src: url('SpaceMono-Bold.ttf');
+        font-weight: bold;
+      }
+
+      header {
+        margin-top: 3%;
+        font-size: 1.3rem;
+      }
+
+      body {
+        font-family: 'Space Mono',Courier;
+        margin-left: 8%;
+        margin-right: 8%;
+      }
+
+      h1 {
+        font-size: 4.0rem;
+        width: 90%;
+      }
+
+      p {
+        font-size: 1.55rem;
+        width: 85%;
+      }
+
+      img {
+        margin-left: auto;
+        margin-right: auto;
+        width: 85%;
+      }
+
+      main {
+        margin-top: 10%;
+        display: flex;
+        flex-direction: column;
+      }
+
+      @media only screen and (min-width: 768px) {
+        img {
+          width: 40%;
+        }
+
+        main {
+          flex-direction: row;
+        }
+
+        p {
+          width: 52%;
+        }
+      }
+
+      a {
+        text-decoration: none;
+      }
+
+      div#text-column {
+        display: flex;
+        padding-left: 5%;
+        padding-right: 5%;
+        flex-direction: column;
+      }
+
+      div#box {
+        margin-top: 5%;
+        padding: 25px;
+        background-color: black;
+        font-weight: bold;
+        width: fit-content;
+        color: white;
+      }
+    </style>
+  </head>
+  <body>
+    <header>404 NOT FOUND</header>
+    <main>
+      <img src="./Scarecrow.png">
+      <div id="text-column">
+        <h1>I have bad news for you</h1>
+        <p>
+          The page you are looking for might be removed 
+          or is temporarily unavailable
+        </p>
+        <a href="/">
+          <div id="box">
+            BACK TO HOMEPAGE
+          </div>
+        </a>
+      </div>
+    </main>
+  </body>
+</html>
