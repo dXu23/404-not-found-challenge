@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://coldfix.dev/error-page.html">
+    <a href="https://cozy-wisp-a301b8.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/dXu23/404-not-found-challenge/blob/main/404.html">
+    <a href="https://github.com/dXu23/404-not-found-challenge/">
       Solution
     </a>
     <span> | </span>
@@ -41,24 +41,13 @@
 
 - Where can I see your demo?
 
-Right [here](https://coldfix.dev/error-page.html)
-
-- What was your experience?
-
-I had a hard time finding the fonts used. Font Squirrel helped me find the font of the main text body.
-However, I had to give up on the font of the '404 NOT FOUND' header since the letters were scrunched up
-together. According to Font Squirrel, there is a way to separate letters scrunched up together, but I'm
-too lazy to figure out how.
-
+Right [here](https://cozy-wisp-a301b8.netlify.app/)
 
 - What have you learned/improved?
 
-I improved my knowledge of CSS grid and media queries.
+I improved my knowledge of CSS flexbox and media queries.
 
 - Your wisdom? :)
-
-It might be a good idea to learn OpenCV/Gimp so that one can identify contours around the letters and separate them
-for FontSquirrel.
 
 ### Built With
 
@@ -68,18 +57,14 @@ Just humble vanilla HTML and CSS.
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. 
 The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an simple 404 page that would
-change its layout according to screen size. 
+change its layout according to screen size.
 
 
 ## Acknowledgements
 
-- [Font Squirrel font matcherator](https://www.fontsquirrel.com/matcherator)
-- [CSS Grid info](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [W3 Schools on Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
-- [Space Mono font](https://www.fontsquirrel.com/fonts/space-mono)
 
 ## Contact
 
-- Website [coldfix.dev](https://coldfix.dev)
-- GitHub [@dXu23](https://github.com/dXu23)
+- [Website](https://rad-sunshine-871fb5.netlify.app/)
+- [Github](https://github.com/dXu23)
 
